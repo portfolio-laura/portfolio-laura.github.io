@@ -1,24 +1,52 @@
 body{
     margin: 0px;
 }
+h2{
+    margin: 0px;
+    padding: 10px;
+}
+.titre_page{
+    margin-top: 20px;
+    text-align: center;
+    font-size: xx-large;
+    background-color: #FDE8ED;
+}
 .texte{
-    margin: 20px;
-    max-width: 500px;
+    margin-left: 50px;
+    font-size: large;
 }
 .contenu_jemeo{
+    margin-top: 50px;
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
     align-items: center;
 }
 .img_jemeo{
-    max-height: 200px;
+    max-width: 37%;
+    height: auto;
     padding-right: 20px;
 }
-.haut{
-    display: flex;
-    justify-content: space-around;
+.competences{
+    border: 3px;
+    border-color: #3E65A6;
 }
-.bas{
+.avant{
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
+}
+.filet{
+    display: flex;
+    justify-content: center;
+}
+.deco{
+    margin-top: 30px;
+    background-color: #C2BBF2;
+    height: 2px;
+    width: 50%;
+    border-radius: 2px;
+}
+.après{
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
 }
