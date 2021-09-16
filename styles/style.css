@@ -245,8 +245,7 @@ a{
 
 footer{
     padding-top: 20px;
-    background-color: #360954;
-    color: #F9F8FD;
+    background-color: #DCE3FF;
 }
 .pages{
     display: flex;
@@ -264,7 +263,4 @@ footer{
     display: flex;
     justify-content: center;
     align-items: center;
-}
-.lien{
-    color: #F9F8FD;
 }

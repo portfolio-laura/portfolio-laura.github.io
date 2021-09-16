@@ -1,0 +1,41 @@
+.titre_oniris{
+    margin-top: 20px;
+    text-align: center;
+    font-size: xx-large;
+    background-color: #C2BBF2;
+}
+h2{
+    margin: 0px;
+    padding: 10px;;
+}
+.haut{
+    display: flex;
+    justify-content: center;
+}
+.texte{
+    /*background-color: #FDE8ED;*/
+    font-size: large;
+    margin-top: 50px;
+    padding: 20px;
+    max-width: 1000px;
+}
+.site_oniris{
+    font-weight: bold;
+    text-decoration: underline;
+}
+.bas{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 45px;
+    margin-bottom: 80px;
+}
+.photo_oniris{
+    max-width:30% ;
+    height: auto;
+}
+.deco{
+    height: 200px;
+    width: 1px;
+    background-color: #4a0d73;
+}

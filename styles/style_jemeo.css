@@ -27,8 +27,7 @@ h2{
     padding-right: 20px;
 }
 .competences{
-    border: 3px;
-    border-color: #3E65A6;
+    border: #3E65A6 solid 1px;
 }
 .avant{
     display: flex;
@@ -40,8 +39,9 @@ h2{
 }
 .deco{
     margin-top: 30px;
-    background-color: #C2BBF2;
-    height: 2px;
+    /*background-color: #C2BBF2;*/
+    background-color: #4a0d73;
+    height: 1px;
     width: 50%;
     border-radius: 2px;
 }
@@ -49,4 +49,7 @@ h2{
     margin-top: 30px;
     display: flex;
     justify-content: center;
+}
+.jemeo{
+    margin-bottom: 70px;
 }
